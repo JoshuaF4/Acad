@@ -1,4 +1,4 @@
-# Mumble2
+#Acad
 A real time messaging & video calling. Youtube tutorial will be upload in the comming days.
 
 Live Demo: https://www.mumble2.dev/
